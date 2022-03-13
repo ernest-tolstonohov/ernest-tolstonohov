@@ -4,3 +4,6 @@
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=blue)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P1eko&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
