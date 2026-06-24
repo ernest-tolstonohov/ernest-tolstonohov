@@ -1,17 +1,9 @@
 # Hi there 👋
 
 ## About Me
-
-My name is Ernest Tolstonohov. I'm a Computer Science student (BSc, UK) with ~2 years of experience as a Software Engineer in Test. I've worked on test automation, API testing, and CI/CD pipelines in a professional setting. I'm passionate about automation - from test pipelines to ML workflows. I enjoy building systems that remove manual work and make processes smarter. Always open to new technologies and challenges.
-
-## What I'm working on
-
-- **Trading Bot** - BTC price prediction
-- **RecipeHub** - recipe sharing platform (university group project)
-- **AI Question-Answering Agent** - knowledge-based agent that answers questions using search and reasoning (university AI coursework)
+My name is Ernest Tolstonohov. I'm a Computer Science student (BSc, UK) with 2+ years of experience as a Software Engineer in Test. I've worked on test automation, API testing, and CI/CD pipelines in a professional setting. I'm passionate about automation - from test pipelines to ML workflows. I enjoy building systems that remove manual work and make processes smarter. Always open to new technologies and challenges.
 
 ## Tools of Trade
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -34,15 +26,14 @@ My name is Ernest Tolstonohov. I'm a Computer Science student (BSc, UK) with ~2 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ## Featured Projects
-
 | Project | Description | Stack |
 |---|---|---|
+| [investment-education-agent](https://github.com/ernest-tolstonohov/investment-education-agent) | Beginner investor-profiling agent - Naive Bayes intent, forward/backward chaining, Bayesian network, live UK prices | Python |
 | [taxi-pathfinding-ai](https://github.com/ernest-tolstonohov/taxi-pathfinding-ai) | A* vs Temperature Field - rational taxi agent benchmarked on 5 maps | Python |
 | [item-borrowing-system](https://github.com/ernest-tolstonohov/item-borrowing-system) | Desktop app for borrowing items - OOP, Factory pattern, JavaFX UI | Java |
 | [recipehub](https://github.com/ernest-tolstonohov/recipehub) | Recipe sharing platform with ingredient search | Node.js and MySQL |
 | [veterinary-management-system](https://github.com/ernest-tolstonohov/veterinary-management-system) | Console-based vet clinic manager - role-based access, file storage, input validation | C++ |
 
 ## 📫 Get in touch
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernest-tolstonohov/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tolstonogov.dev@gmail.com)
